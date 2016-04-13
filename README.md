@@ -1,5 +1,8 @@
 
 # CDRFlowButton
+
+<img src="https://github.com/cristi1900/CDRFlowButton/blob/master/CDRFlowButton_Presentation_edited.gif">
+
 This is how you can use this button 
 
  ```
