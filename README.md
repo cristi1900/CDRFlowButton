@@ -1,7 +1,14 @@
+
 # CDRFlowButton
 This is how you can use this button 
 
-override func viewWillAppear(animated: Bool) {
+ ```
+ 
+ class ViewController: UIViewController {
+
+    var flowButton : CDRFlowButton!
+    
+    override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
         self.addCDRButton()
     }
@@ -93,3 +100,5 @@ override func viewWillAppear(animated: Bool) {
     func button3Tapped () {
         // perform action
     }
+    }
+'''
