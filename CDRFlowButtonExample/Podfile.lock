@@ -1,0 +1,10 @@
+PODS:
+  - JTHamburgerButton (1.0.5)
+
+DEPENDENCIES:
+  - JTHamburgerButton (~> 1.0)
+
+SPEC CHECKSUMS:
+  JTHamburgerButton: 9a41c7d051c72590a9d2c18416d84d1b912f12e3
+
+COCOAPODS: 0.39.0
