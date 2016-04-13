@@ -3,6 +3,7 @@
 
 <img src="https://github.com/cristi1900/CDRFlowButton/blob/master/CDRFlowButton_Presentation_edited.gif">
 
+
 This is how you can use this button 
 
  ```
@@ -104,3 +105,7 @@ This is how you can use this button
         // perform action
     }
     }
+    
+ ```
+
+**If you wish to support me you can do it at my paypal address cristiandraica@gmail.com**
