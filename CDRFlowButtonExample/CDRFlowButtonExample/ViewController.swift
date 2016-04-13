@@ -23,13 +23,6 @@ class ViewController: UIViewController {
    override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
         self.addCDRButton()
-        
-    }
-    
-    
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
     
     func addCDRButton () {
@@ -54,7 +47,6 @@ class ViewController: UIViewController {
         
         flowButton.layer.cornerRadius = buttonSize/2
        
-        
         self.setupOptions()
         self.customizeFlowButton()
         
@@ -89,7 +81,6 @@ class ViewController: UIViewController {
         button2.addTarget(self, action: #selector(ViewController.button2Tapped), forControlEvents: .TouchUpInside);
         button3.addTarget(self, action: #selector(ViewController.button3Tapped), forControlEvents: .TouchUpInside);
     }
-    
     
     func customizeFlowButton () {
   

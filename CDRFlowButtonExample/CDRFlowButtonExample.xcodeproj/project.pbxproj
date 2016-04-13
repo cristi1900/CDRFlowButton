@@ -351,6 +351,7 @@
 					"\"${PODS_ROOT}/Headers/Public/JTHamburgerButton\"",
 				);
 				INFOPLIST_FILE = CDRFlowButtonExample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Cristi.CDRFlowButtonExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -369,6 +370,7 @@
 					"\"${PODS_ROOT}/Headers/Public/JTHamburgerButton\"",
 				);
 				INFOPLIST_FILE = CDRFlowButtonExample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Cristi.CDRFlowButtonExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
