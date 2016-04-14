@@ -1,6 +1,7 @@
 
 # CDRFlowButton
-
+You can try it by going in your terminal and running 'pod try CDRFlowButton'
+Or add it to your project: pod 'CDRFlowButton'
 <img src="https://github.com/cristi1900/CDRFlowButton/blob/master/CDRFlowButton_Presentation_edited.gif">
 
 
