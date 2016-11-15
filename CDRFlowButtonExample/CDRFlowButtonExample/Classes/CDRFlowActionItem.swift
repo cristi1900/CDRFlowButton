@@ -1,9 +1,7 @@
 //
 //  CDRFlowActionItem.swift
-//  Restaurant Intim Menu
 //
 //  Created by Cristi on 10/04/16.
-//  Copyright © 2016 RaduPop. All rights reserved.
 //
 
 import UIKit
@@ -39,9 +37,4 @@ class CDRFlowActionItem: UIButton {
         return false;
     }
 }
-
-
-
-
-//contentEdgeInsets
 
