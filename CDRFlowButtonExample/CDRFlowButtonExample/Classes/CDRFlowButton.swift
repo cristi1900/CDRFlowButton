@@ -3,7 +3,6 @@
 //  CDRFlowButton
 //
 //  Created by Cristi on 30/03/16.
-//  Copyright © 2016 Cristi. All rights reserved.
 //
 
 import UIKit
